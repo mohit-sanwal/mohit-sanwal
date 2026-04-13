@@ -128,7 +128,7 @@ Birla Institute Of Applied Sciences (2012 – 2016)
 
 ---
 
-## 🏋️ Interests
+## 🥁Interests
 
 Drumming • Yoga • Traveling • Tech Exploration • Open-source
 
