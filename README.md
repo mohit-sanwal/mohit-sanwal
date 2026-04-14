@@ -16,7 +16,7 @@ I specialize in frontend systems, A/B testing frameworks, and payment integratio
 **Client: Shutterfly (via Genpact)**
 
 - 🚀 Owned and scaled Buy Now & Cart systems, delivering end-to-end features independently
-- 📈 Led Cart & Checkout UI improvements, driving measurable conversion and revenue growth (via A/B tests)
+- 📈 Led both client- and vendor-side frontend teams to deliver Cart & Checkout UI enhancements, driving measurable gains in conversion and revenue through data-driven A/B testing.
 - 🧪 Strengthened A/B testing implementation, enabling faster and more reliable experimentation
 - 💳 Implemented whitelisting functionality to enable multi-payment support, allowing controlled feature rollouts
 - 🏗️ Architected and rebuilt modern Cart system with scalability and modular design
