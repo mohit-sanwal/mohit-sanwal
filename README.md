@@ -126,7 +126,7 @@ I specialize in frontend systems, A/B testing frameworks, and payment integratio
 
 ## 🎓 Education
 
-**Bachelor of Technology – Computer Science**  
+**Bachelor of Technology – Computer Science and Engineering**  
 Birla Institute Of Applied Sciences (2012 – 2016)
 
 ---
