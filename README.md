@@ -3,7 +3,6 @@
 
 📍 Noida, India  
 📧 mohit123ongraph@gmail.com  
-🌐 https://mohit-sanwal-portfolio.vercel.app/
 
 ---
 
@@ -142,3 +141,5 @@ Drumming • Yoga • Traveling • Tech Exploration • Open-source
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/mohit-sanwal-b2a3a2107/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/mohit-sanwal/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-06B6D4?style=for-the-badge)](https://mohit-sanwal-portfolio.vercel.app/)
+
