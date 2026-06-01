@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-Principal Frontend Engineer with **9+ years of experience** building **high-scale, performance-critical web applications**.
+Experienced Frontend Engineer focused on building scalable, performance-driven web applications and digital products using **React, Next.js, TypeScript, and modern frontend architectures**.
 
 Currently working at **Genpact**, Delivering high-impact e-commerce features across Cart, Checkout, and Buy Now flows, with a focus on performance, scalability, and experimentation-driven improvements.
 I specialize in frontend systems, A/B testing frameworks, and payment integrations.
