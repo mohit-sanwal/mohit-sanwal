@@ -94,6 +94,7 @@ I specialize in frontend systems, A/B testing frameworks, and payment integratio
 - Designed and implemented a scalable whitelisting system for multi-payment support, enabling controlled feature rollout and supporting multiple payment providers with flexibility and security.
 - Architected and built a modernized Cart system from scratch, focusing on modular design, scalability, and improved user experience; laid the foundation for future extensibility.
 - Resolved critical issues in multi-recipient workflows, significantly improving system stability and user experience in complex ordering scenarios.
+- ReactJS, Redux, Next.js, Backbone.js, Micro Frontend architecture, HTML, CSS, Storybook, Github Copilot, RTL
 
 ---
 
@@ -101,6 +102,7 @@ I specialize in frontend systems, A/B testing frameworks, and payment integratio
 - Led the MetricStream Reports team, overseeing development and delivery of reporting features
 - Implemented interactive report charts with drill-down functionality for enhanced data analysis and user insights using Next.js, Reactjs, redux etc
 - Built an internal UI library with reusable components to ensure consistency and accelerate development across projects
+- ReactJS, Redux, Next.js, TypeScript, BackboneJS, Material UI, Styled Components, Storybook, RTL
 
 
 ### ** Mobile Programming India Pvt Ltd ** - Sr Software Developer
@@ -109,11 +111,13 @@ I specialize in frontend systems, A/B testing frameworks, and payment integratio
 - Led the Oopo frontend team, driving delivery, mentoring developers, and ensuring timely project execution
 - Built the Digital Gold mini app within the Oopo Kash application from the ground up
 - Collaborated with Sapient on the Lloyd Bank application, contributing to frontend development and integration
+-  ReactJS, Redux, TypeScript, Vue.js, d3, HTML, CSS, Tailwind CSS, Jest, mocha, Enzyme, AWS(EC2)
 
 ### ** Dew Solutions ** - Software Engineer 
 - Contributed to the Tata CLiQ e-commerce platform (desktop and PWA), serving millions of users
 - Single-handedly developed the Times of India gaming PWA (BaaziNow) using Vue.js, Vuex, and WebSockets; later integrated it into the MPL platform for expanded reach and functionality
 - Contributed to the Speedlabs e-learning platform and its admin panel, supporting development and feature implementation
+- ReactJS, Redux, Next.js, Vue.js, TypeScript, RxJS, Tailwind CSS, HTML, CSS, Material UI, Jest, AWS(EC2)
 
 
 ### ** Ongraph Technology Pvt Ltd ** - Software Developer
@@ -121,6 +125,7 @@ I specialize in frontend systems, A/B testing frameworks, and payment integratio
 - Developed multiple PWAs and mini web apps with a focus on performance and scalability
 - Integrated mini web apps via WebView within Android applications, enabling multiple web apps to run within a single app without significantly increasing app size
 - Independently developed and delivered several mini web applications end-to-end
+- ReactJS, Redux, Vue.js, Angular, JavaScript (ES6+), HTML, CSS, Material UI, Jest, AWS(EC2)
 
 ---
 
