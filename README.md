@@ -1,5 +1,5 @@
 # Hi 👋 I'm Mohit Sanwal  
-### JavaScript | React | Next.js | Vue.js| Architecture | Performance | AI- Integrated Apps
+### JavaScript | React | Next.js | Vue.js | Architecture | Performance | AI- Integrated Apps
 
 📍 Noida, India  
 📧 mohit123ongraph@gmail.com  
