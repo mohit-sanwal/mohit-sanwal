@@ -1,5 +1,5 @@
 # Hi 👋 I'm Mohit Sanwal  
-### JavaScript | React | Next.js | Vue.js | Architecture | Performance | AI- Integrated Apps
+### JavaScript | React | Next.js | Vue.js | Python | Architecture | Performance | AI- Integrated Apps
 
 📍 Noida, India  
 📧 mohit123ongraph@gmail.com  
@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-Experienced Frontend Engineer focused on building scalable, performance-driven web applications and digital products using **React, Next.js, Vue.js, TypeScript, and modern frontend architectures**.
+Experienced Frontend-focused Full Stack Engineer specializing in building scalable, performance-driven web applications and digital products using **React, Next.js, Vue.js, TypeScript, Python and modern frontend architectures**.
 
 Currently working at **Genpact**, Delivering high-impact e-commerce features across Cart, Checkout, and Buy Now flows, with a focus on performance, scalability, and experimentation-driven improvements.
 I specialize in frontend systems, A/B testing frameworks, and payment integrations.
